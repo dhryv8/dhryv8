@@ -1,4 +1,4 @@
-- Software Engineer, building backend systems with Java, Spring Boot, and Python
+- Software Engineer, building backend systems with Java, Spring Boot, and AWS
 
 - Currently learning Spring Boot, Spring AI, RAG, AI agents, Cloud Computing, and Cybersecurity
 
