@@ -1,7 +1,5 @@
 - Software Engineer, building backend systems with Java, Spring Boot, and Python
 
-- Full-Stack, React, Java (Spring Boot), FastAPI
-
 - Currently learning Spring Boot, Spring AI, RAG, AI agents, Cloud Computing, and Cybersecurity
 
 - Check out my certifications: [Credly](https://www.credly.com/users/dhruv-upadhyay.515dbf31/badges)
