@@ -1,6 +1,6 @@
 - 🎓 Computer science graduate, building backend systems with Java, Spring Boot, and Python
 
-- 👨‍💻 Backend, Java ☕, FastAPI 🐍
+- 👨‍💻 Backend, Springboot ☕, FastAPI 🐍
 
 - 🌱 Currently learning Spring Boot, Spring AI, RAG, AI agents, Cloud Computing, and Cybersecurity
 
