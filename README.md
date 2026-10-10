@@ -13,3 +13,5 @@
 <h3 align="left">Languages and Tools</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,react,spring,fastapi,aws,mongodb,postgres,tailwindcss,docker)](https://skillicons.dev)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dhryv8&layout=compact&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=dhryv8&layout=compact&langs_count=4&theme=dark_github)
