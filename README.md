@@ -1,4 +1,4 @@
-- Software Engineer, building full-stack systems with React.js, Java, Spring Boot, and AWS
+- Computer science graduate, learning to build full-stack web applications
 
 - Currently learning Spring Boot, Spring AI, RAG, AI agents, Cloud Computing, and Cybersecurity
 
