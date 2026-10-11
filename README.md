@@ -2,9 +2,11 @@
 
 - Currently learning Spring Boot, Spring AI, RAG, AI agents, Cloud Computing, and Cybersecurity
 
+- Open to internships and entry-level software engineer roles
+
 - Check out my certifications: [Credly](https://www.credly.com/users/dhruv-upadhyay.515dbf31/badges)
 
-- Open to internships and entry-level software engineer roles
+- View my portfolio: [Portfolio](https://dhryv8folio.vercel.app/)
 
 - How to reach me: [udhruv444@gmail.com](mailto:udhruv444@gmail.com)
 
